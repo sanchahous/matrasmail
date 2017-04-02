@@ -1,0 +1,147 @@
+.order-block {
+  font-family: Arial;
+  padding-top: 68px;
+  width: 583px;
+  margin: 0 auto;
+}
+
+p {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+a {
+  font-weight: 400;
+  color: #066b9f;
+  text-decoration: underline;
+}
+
+.order-block__logo {
+  width: 306px;
+  height: 81px;
+  margin: 0 auto 54px auto;
+  display: block;
+}
+
+.order-block__head span {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #282828;
+}
+
+.order-block__head a {
+  font-size: 36px;
+}
+
+.order-block__head p {
+  margin-top: 20px;
+}
+
+.order-block__contact {
+  margin-top: 36px;
+}
+
+.order-block__list {
+  font-size: 0;
+  padding: 0;
+  margin: 0 0 45px 0;
+}
+
+.order-block__list li {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 16px;
+  margin-top: 23px;
+}
+
+.order-block__list li:first-of-type {
+  margin-top: 0;
+}
+
+.order-block__list .order-block__list__lgrey {
+  width: 165px;
+  margin-right: 40px;
+  color: #898989;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.order-block__list .order-block__list__dgrey {
+  color: #282828;
+  display: inline-block;
+  vertical-align: top;
+  max-width: 360px;
+}
+
+.order-block__item {
+  background: #f7f5ed;
+  padding-bottom: 17px;
+  margin-bottom: 10px;
+  padding-top: 24px;
+}
+
+.order-block__item ul {
+  font-size: 0;
+  padding-left: 20px;
+  padding-bottom: 17px;
+}
+
+.order-block__item li {
+  display: inline-block;
+  vertical-align: top;
+  font-size: 16px;
+  margin-top: 19px;
+}
+
+.order-block__item li:first-of-type {
+  margin-top: 0;
+}
+
+.order-block__item a {
+  display: inline-block;
+  vertical-align: top;
+  width: 390px;
+  padding-right: 30px;
+}
+
+.order-block__item a span {
+  width: auto;
+}
+
+.order-block__item span {
+  color: #000000;
+  display: inline-block;
+  vertical-align: top;
+  width: 115px;
+  text-align: right;
+}
+
+.order-block__item__summ {
+  padding-left: 20px;
+}
+
+.order-block__item__summ span {
+  display: inline-block;
+  vertical-align: top;
+  width: 390px;
+  padding-right: 30px;
+  text-align: left;
+}
+
+.order-block__item__summ strong {
+  display: inline-block;
+  vertical-align: top;
+  width: 115px;
+  text-align: right;
+}
+
+.order-block__bottom p:first-of-type {
+  margin-top: 0;
+}
+
+.order-block__bottom p {
+  margin-top: 17px;
+}
