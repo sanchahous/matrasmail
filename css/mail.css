@@ -128,6 +128,8 @@ a {
 
 .order-block__item li a span {
   margin-right: 0;
+  margin-left: 3px;
+
 }
 
 .order-block__item__summ {
